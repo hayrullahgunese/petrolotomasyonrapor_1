@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Haye\\source\\repos\\Petrol Otomasyon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9952F13C-4D3F-425B-BD68-56507BAE8637}|Petrol Otomasyon.csproj|c:\\users\\haye\\source\\repos\\petrol otomasyon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9952F13C-4D3F-425B-BD68-56507BAE8637}|Petrol Otomasyon.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9952F13C-4D3F-425B-BD68-56507BAE8637}|Petrol Otomasyon.csproj|c:\\users\\haye\\source\\repos\\petrol otomasyon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9952F13C-4D3F-425B-BD68-56507BAE8637}|Petrol Otomasyon.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9952F13C-4D3F-425B-BD68-56507BAE8637}|Petrol Otomasyon.csproj|c:\\users\\haye\\source\\repos\\petrol otomasyon\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9952F13C-4D3F-425B-BD68-56507BAE8637}|Petrol Otomasyon.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9952F13C-4D3F-425B-BD68-56507BAE8637}|Petrol Otomasyon.csproj|c:\\users\\haye\\source\\repos\\petrol otomasyon\\pompaciaray\u00FCz\u00FC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9952F13C-4D3F-425B-BD68-56507BAE8637}|Petrol Otomasyon.csproj|solutionrelative:pompaciaray\u00FCz\u00FC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9952F13C-4D3F-425B-BD68-56507BAE8637}|Petrol Otomasyon.csproj|c:\\users\\haye\\source\\repos\\petrol otomasyon\\pompaciaray\u00FCz\u00FC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9952F13C-4D3F-425B-BD68-56507BAE8637}|Petrol Otomasyon.csproj|solutionrelative:pompaciaray\u00FCz\u00FC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9952F13C-4D3F-425B-BD68-56507BAE8637}|Petrol Otomasyon.csproj|c:\\users\\haye\\source\\repos\\petrol otomasyon\\pompaciaray\u00FCz\u00FC.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9952F13C-4D3F-425B-BD68-56507BAE8637}|Petrol Otomasyon.csproj|solutionrelative:pompaciaray\u00FCz\u00FC.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 350,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PompaciAray\u00FCz\u00FC.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Haye\\source\\repos\\Petrol Otomasyon\\PompaciAray\u00FCz\u00FC.Designer.cs",
+              "RelativeDocumentMoniker": "PompaciAray\u00FCz\u00FC.Designer.cs",
+              "ToolTip": "C:\\Users\\Haye\\source\\repos\\Petrol Otomasyon\\PompaciAray\u00FCz\u00FC.Designer.cs",
+              "RelativeToolTip": "PompaciAray\u00FCz\u00FC.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:08:57.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PompaciAray\u00FCz\u00FC.cs",
+              "DocumentMoniker": "C:\\Users\\Haye\\source\\repos\\Petrol Otomasyon\\PompaciAray\u00FCz\u00FC.cs",
+              "RelativeDocumentMoniker": "PompaciAray\u00FCz\u00FC.cs",
+              "ToolTip": "C:\\Users\\Haye\\source\\repos\\Petrol Otomasyon\\PompaciAray\u00FCz\u00FC.cs",
+              "RelativeToolTip": "PompaciAray\u00FCz\u00FC.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAswIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:05:12.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PompaciAray\u00FCz\u00FC.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Haye\\source\\repos\\Petrol Otomasyon\\PompaciAray\u00FCz\u00FC.cs",
+              "RelativeDocumentMoniker": "PompaciAray\u00FCz\u00FC.cs",
+              "ToolTip": "C:\\Users\\Haye\\source\\repos\\Petrol Otomasyon\\PompaciAray\u00FCz\u00FC.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PompaciAray\u00FCz\u00FC.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T17:31:47.684Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Haye\\source\\repos\\Petrol Otomasyon\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Haye\\source\\repos\\Petrol Otomasyon\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:39:52.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Haye\\source\\repos\\Petrol Otomasyon\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Haye\\source\\repos\\Petrol Otomasyon\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:42:02.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Haye\\source\\repos\\Petrol Otomasyon\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Haye\\source\\repos\\Petrol Otomasyon\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:19:49.705Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

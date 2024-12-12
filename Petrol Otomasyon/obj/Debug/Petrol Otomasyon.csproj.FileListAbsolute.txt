@@ -1,0 +1,11 @@
+C:\Users\Haye\source\repos\Petrol Otomasyon\bin\Debug\Petrol Otomasyon.exe.config
+C:\Users\Haye\source\repos\Petrol Otomasyon\bin\Debug\Petrol Otomasyon.exe
+C:\Users\Haye\source\repos\Petrol Otomasyon\bin\Debug\Petrol Otomasyon.pdb
+C:\Users\Haye\source\repos\Petrol Otomasyon\obj\Debug\Petrol Otomasyon.csproj.AssemblyReference.cache
+C:\Users\Haye\source\repos\Petrol Otomasyon\obj\Debug\Petrol_Otomasyon.dgvSubeler.resources
+C:\Users\Haye\source\repos\Petrol Otomasyon\obj\Debug\Petrol_Otomasyon.Properties.Resources.resources
+C:\Users\Haye\source\repos\Petrol Otomasyon\obj\Debug\Petrol Otomasyon.csproj.GenerateResource.cache
+C:\Users\Haye\source\repos\Petrol Otomasyon\obj\Debug\Petrol Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Haye\source\repos\Petrol Otomasyon\obj\Debug\Petrol Otomasyon.exe
+C:\Users\Haye\source\repos\Petrol Otomasyon\obj\Debug\Petrol Otomasyon.pdb
+C:\Users\Haye\source\repos\Petrol Otomasyon\obj\Debug\Petrol_Otomasyon.PompaciArayüzü.resources
